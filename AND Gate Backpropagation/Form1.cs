@@ -21,12 +21,12 @@ namespace AND_Gate_Backpropagation
 
         private void createBtn_Click(object sender, EventArgs e)
         {
-            nn = new NeuralNet(4, 16, 1);
+            nn = new NeuralNet(4, 8, 1);
         }
 
         private void TrainBtn_Click(object sender, EventArgs e)
         {
-            for(int i = 0; i < 3000; i++)
+            for(int i = 0; i < 1000; i++)
             {
                 nn.setInputs(0, 0.0);
                 nn.setInputs(1, 0.0);
