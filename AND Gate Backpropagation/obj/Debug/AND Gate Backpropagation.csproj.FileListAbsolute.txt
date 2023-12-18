@@ -1,0 +1,10 @@
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\bin\Debug\AND Gate Backpropagation.exe.config
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\bin\Debug\AND Gate Backpropagation.exe
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\bin\Debug\AND Gate Backpropagation.pdb
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND Gate Backpropagation.csproj.AssemblyReference.cache
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND_Gate_Backpropagation.Form1.resources
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND_Gate_Backpropagation.Properties.Resources.resources
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND Gate Backpropagation.csproj.GenerateResource.cache
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND Gate Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND Gate Backpropagation.exe
+C:\Users\jogzfon\OneDrive - Cebu Institute of Technology University\Documents\C#\AND Gate Backpropagation\AND Gate Backpropagation\obj\Debug\AND Gate Backpropagation.pdb
